@@ -1,0 +1,1 @@
+# DocuShield AI - Schemas Package
